@@ -125,7 +125,7 @@ h1, h2, h3, h4, h5, h6 {
   background: rgba(0, 0, 0, 0.8);
 }
 #header .logo {
-  font-size: 32px;
+  font-size: 28px;
   margin: 0;
   padding: 0;
   line-height: 1;
@@ -152,7 +152,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 7px 25px 8px 25px;
   white-space: nowrap;
   transition: 0.3s;
-  font-size: 14px;
+  font-size: 12px;
   display: inline-block;
   border: 2px solid #ffc451;
 }
@@ -355,7 +355,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/fundo.jpg") top center;
   background-size: cover;
   position: relative;
 }
@@ -620,7 +620,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../img/cta-bg.jpg") fixed center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../img/instagram.jpg") fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
